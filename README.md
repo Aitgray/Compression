@@ -6,16 +6,12 @@
 N/A (I just started)
 
 ### Current Task:
-Getting main.rs ready, starting to implement some of the compression/decompression methods.
+Getting main.py ready, starting to implement some of the compression/decompression methods.
 
 ### Future Tasks:
 GUI - will provide more details in the future.
 Possibly encryption (may ruin the purpose of compressing all those files)
 Calling a computer vision API and/or a LLM like GPT 3-4 in order to automatically categorize files.
-
-
-## Additional Notes:
-New Issue, for some reason, nasm really doesn't want to run and I'm not sure why, I downloaded it and added it to my PATH but for some reason it's still giving me an error, might try to spin up an ubuntu VM to see if I can get everything good and compiled there.
 
 ## Random Thoughts:
 I don't want to get too ahead of myself but I want to write some of my thoughts about encryption down just to document my thought process. On one hand encryption is good, it protects one's data from bad actors. On the other hand if the user has sensitive data anyways, they should probably be encrypting it on their own, or storing it securely offsite.
@@ -27,6 +23,8 @@ Perhaps it would be best to add encryption as a secondary feature for users in t
 I think I'd like the GUI to look like Google Drive, even if the actual file explorer on the user's computer looks completely different. I'll probably end up using a hashmap for the category system, which dynamically scales as the user adds additional categories. This would be a good way to ensure some optimization.
 
 ## Included Files:
+main.py
+
 readme.md (duh)
 
 ## Execution Instructions:
