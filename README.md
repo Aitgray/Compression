@@ -1,15 +1,17 @@
 # Compression
 
+## Current Status:
+I haven't worked on this project in a while, I've been incredibly busy; however, I do plan to complete this project eventually.
+
 ## The Plan:
 
 ### Completed Tasks:
-N/A (I just started)
+Completed hash table and compression and decompression.
 
 ### Current Task:
-Getting main.py ready, starting to implement some of the compression/decompression methods.
+GUI!!!
 
 ### Future Tasks:
-GUI - will provide more details in the future.
 Possibly encryption (may ruin the purpose of compressing all those files)
 Calling a computer vision API and/or a LLM like GPT 3-4 in order to automatically categorize files.
 
@@ -24,9 +26,7 @@ I think I'd like the GUI to look like Google Drive, even if the actual file expl
 
 ## Included Files:
 main.py
-
-readme.md (duh)
+readme.md
 
 ## Execution Instructions:
 Will update when the program is functional, eventually I would like the GUI to be an executable.
-The Rust backend should work without needing to be called.
